@@ -1,12 +1,12 @@
 # 🤖 FocoBot - Meu Assistente de Foco para o Discord
 
-![Garota Lofi estudando](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2h1cTZrZ2p0c29oajNncjV2cnY5a3R2c2J1Z2N6a3Nhd2E4d2l6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hFTsaY/giphy.gif)
+![Garota Lofi estudando]([https://media.giphy.com/media/836gESdG4lA7M32w6w/giphy.gif](https://tenor.com/94cn.gif))
 
 Criei este bot em Python pra me ajudar a não procrastinar e a gerenciar meu tempo de estudo e trabalho direto no Discord, usando a famosa Técnica Pomodoro.
 
 ## 🚀 O que ele faz?
 
-A ideia é ser simples e direto. O bot usa comandos de barra pra facilitar a vida:
+A ideia é ser simples e direto. O bot usa comandos pra facilitar a vida:
 
 -   `/iniciar_foco`: Começa 1 hora de foco total. Sem distrações!
 -   `/pausa_curta`: Inicia uma pausa rápida de 5 minutos pra esticar as pernas.
@@ -43,7 +43,14 @@ Se você quiser testar ou modificar o bot, o setup é esse:
 
 ## 📜 Licença
 
-Este projeto é de código aberto e está licenciado sob a **Licença MIT**. Basicamente, você pode fazer o que quiser com o código, desde que mantenha os créditos.
+Este projeto é de código aberto e está licenciado sob a **[Licença MIT](LICENSE)**. Basicamente, você pode fazer o que quiser com o código, desde que mantenha os créditos.
+
+## 📫 Contato
+
+Quer trocar uma ideia, sugerir algo ou só se conectar? Me encontre aqui:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mendes2499/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.mendes.rodrigues@gmail.com)
 
 ---
 *Criei essa ferramenta pra resolver uma necessidade minha e pra praticar Python com `discord.py`. Espero que seja útil pra mais alguém!*
