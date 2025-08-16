@@ -6,7 +6,7 @@ Criei este bot em Python pra me ajudar a não procrastinar e a gerenciar meu tem
 
 ## O que é o FocoBot?
 
-A ideia é ser um assistente simples e direto para gerenciamento de tempo. O bot usa comandos de barra para facilitar a vida de quem está trabalhando ou estudando.
+A ideia é ser um assistente simples e direto para gerenciamento de tempo. O bot usa comandos simples para facilitar a vida de quem está trabalhando ou estudando.
 
 ## Funcionalidades
 
