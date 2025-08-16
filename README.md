@@ -6,7 +6,7 @@ Criei este bot em Python pra me ajudar a não procrastinar e a gerenciar meu tem
 
 ## O que é o FocoBot?
 
-A ideia é ser um assistente simples e direto para gerenciamento de tempo. O bot usa comandos simples para facilitar a vida de quem está trabalhando ou estudando.
+A ideia é ser um assistente simples e direto para gerenciamento de tempo. O bot usa comandos de barra para facilitar a vida de quem está trabalhando ou estudando.
 
 ## Funcionalidades
 
@@ -27,7 +27,7 @@ Se você quiser testar ou modificar o bot, o setup é esse:
 
 1.  **Clone o repositório:**
     ```bash
-    [git clone [https://github.com/Mentus99/FocoBot-Discord.git](https://github.com/Mentus99/FocoBot-Discord.git)](https://github.com/Mentus99/FocoBot-Discord.git)
+    git clone [https://github.com/Mentus99/FocoBot-Discord.git](https://github.com/Mentus99/FocoBot-Discord.git)
     ```
 2.  **Instale as dependências:**
     ```bash
@@ -51,8 +51,8 @@ Este projeto é de código aberto e está licenciado sob a **[Licença MIT](LICE
 
 Quer trocar uma ideia, sugerir algo ou só se conectar? Me encontre aqui:
 
--   **LinkedIn:** [Gabriel Mendes](https://www.linkedin.com/in/gabriel-mendes2499/)
--   **Email:** [gabriel.mendes.rodrigues@gmail.com](mailto:gabriel.mendes.rodrigues@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mendes2499/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.mendes.rodrigues@gmail.com)
 
 ---
 *Criei essa ferramenta pra resolver uma necessidade minha e pra praticar Python com `discord.py`. Espero que seja útil pra mais alguém!*
