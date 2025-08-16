@@ -27,7 +27,7 @@ Se você quiser testar ou modificar o bot, o setup é esse:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Mentus99/FocoBot-Discord.git](https://github.com/Mentus99/FocoBot-Discord.git)
+    [git clone [https://github.com/Mentus99/FocoBot-Discord.git](https://github.com/Mentus99/FocoBot-Discord.git)](https://github.com/Mentus99/FocoBot-Discord.git)
     ```
 2.  **Instale as dependências:**
     ```bash
